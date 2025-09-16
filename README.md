@@ -1,4 +1,4 @@
-# expansion-case-study
+# expansion-case-study-analysis
 
 # Company Case Study Description 
 
